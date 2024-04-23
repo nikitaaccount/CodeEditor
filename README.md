@@ -2,6 +2,9 @@
 
 This web application allows you to preview HTML, CSS, and JavaScript code in real-time using a simple user interface.
 
+## Netlify Link    
+- https://editorapplication.netlify.app/
+
 ## Features
 
 - Edit HTML, CSS, and JavaScript code simultaneously.
